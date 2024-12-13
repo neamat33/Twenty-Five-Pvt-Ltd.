@@ -1,0 +1,2 @@
+[24-Jun-2023 03:01:06 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.28. in /home/greeijaj/muftiosmangonisalehi.com/vendor/composer/platform_check.php on line 24
+[16-Jul-2023 14:28:03 ASIA/DHAKA] PHP Fatal error:  Cannot use App\Models\Book as Book because the name is already in use in /home/greeijaj/muftiosmangonisalehi.com/app/Http/Controllers/WebController.php on line 9
